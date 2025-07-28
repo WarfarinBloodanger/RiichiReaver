@@ -71,7 +71,8 @@ I did this just to make it convenient for lazy people like me - you only need to
 You can save any version you like locally and play it offline.
 
 For local files, PC is recommended but mobile works too. For iOS, try using browsers other than Safari as some Safari versions may block local HTML files.
-About Feedback
+
+### About Feedback
 
 I'm happy to hear your suggestions while the code is still manageable (lol).
 But I'm just an ordinary college student interested in mahjong (and I have work at school too!), so I may not respond to all messages promptly.
@@ -89,7 +90,8 @@ If some tile decisions seem strange, it's because:
 -    The game forces riichi upon tenpai without considering improvement, so some riichi decisions may look dumb. I hope to change this later
 
 I'd love to collect more records to enrich the game.
-About the Code
+
+### About the Code
 
 Why the JavaScript is obfuscated: (As of July 29, 2025) I'm keeping it closed-source temporarily because I need to use this code for some currently confidential work. But I promise to open-source it later - remind me.
 
